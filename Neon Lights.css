@@ -1,0 +1,14 @@
+.NEO {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+p {
+    background-color: pink;
+}
+
+@media (max-width: 600px) {
+    p {
+        background-color: yellow;
+    }
+}
